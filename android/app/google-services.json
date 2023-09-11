@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481018005586",
+    "project_id": "my-app-lista-compras",
+    "storage_bucket": "my-app-lista-compras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481018005586:android:1eff9830016ac17848778b",
+        "android_client_info": {
+          "package_name": "com.anilton.lista_compras_supermercado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBUvrOdGsiVnkg675TIzlfoUqgpT40bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
